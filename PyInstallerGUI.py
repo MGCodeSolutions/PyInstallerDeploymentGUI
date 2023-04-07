@@ -1,4 +1,4 @@
-# Author: TheRealInfidel@MGCodeSolutions
+# Author: MichaelGuerrero@MGCodeSolutions
 
 from tkinter import *
 import PyInstaller.__main__

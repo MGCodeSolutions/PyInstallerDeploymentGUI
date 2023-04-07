@@ -1,6 +1,5 @@
 # PyInstallerGUI
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+ <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -30,10 +29,9 @@
 
 
 ## Features
-List the ready features here:
 - Input box for file name
 - input box for file location
-- One click conver to .exe file
+- One click convert to .exe file
 
 
 ## Screenshots
@@ -54,7 +52,7 @@ https://pyinstaller.org/en/stable/index.html
 - Input the location of the file to convert
 - Press convert button
 
-`# Author: TheRealInfidel@MGCodeSolutions
+# Author: MichaelGuerrero@MGCodeSolutions
 
 from tkinter import *
 import PyInstaller.__main__
@@ -92,7 +90,7 @@ lbl3.pack()
 btn = Button(root, text="Convert", font=('ariel', 18), command=convert)
 btn.pack(pady=10)
 
-root.mainloop()`
+root.mainloop()
 
 
 ## Project Status
@@ -103,15 +101,14 @@ Open
 Open to sugestions...ALWAYS!
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+
 
 To do:
 - Make this app an .exe for windows with all dependencies
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@MGCodeSolutions] mgcodesolutions@gmail.com - feel free to contact me!
 
 
 <!-- Optional -->
