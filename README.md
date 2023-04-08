@@ -46,7 +46,7 @@ https://pyinstaller.org/en/stable/index.html
 
 Install through pip from command line:
 
-'pip install pyinstaller'
+`pip install pyinstaller`
 <!--Proceed to describe how to install / setup one's local environment / get started with the project.-->
 
 
